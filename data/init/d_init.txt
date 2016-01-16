@@ -244,9 +244,18 @@ You can set the maximum population of your fortress here.  Keep in mind that you
 [POPULATION_CAP:200]
 [STRICT_POPULATION_CAP:220]
 
-This allows you to control the number of babies+children in your fortress.  The first number is an absolute cap on the number of babies+children.  The second is a percentage of the current number of adults in your fortress (the default is the essentially meaningless 1000% here).  The lower number is used as the cap.  The cap only prevents further pregancies, so migrant children, multiple births and existing pregnancies from old saves can still push you over the cap.  Setting either number to zero will disallow pregnancies in the fortress.
+This allows you to control the number of babies+children in your fortress.  The first number is an absolute cap on the number of babies+children.  The second is a percentage of the current number of adults in your fortress (the default is the essentially meaningless 1000% here).  The lower number is used as the cap.  The cap only prevents further pregnancies, so migrant children, multiple births and existing pregnancies from old saves can still push you over the cap.  Setting either number to zero will disallow pregnancies in the fortress.
 
 [BABY_CHILD_CAP:100:1000]
+
+You can set the maximum number of visitors to your fort here.  This does not include merchants, diplomats, animals or invaders, but only those either dropping by for a temporary visit to a tavern, library or temple, or those seeking permanent employment.  Once you accept a petition from a visitor to stay at your fort, they no longer count against the cap, even if they never become a full citizen.
+
+[VISITOR_CAP:100]
+
+You can set the maximum number of soldiers allowed to invade in serious invasions with these numbers.  This doesn't affect smaller raids or mounts, and ambushers and other special units will also ignore the cap.  Set INVADERS to NO above if you don't want invaders -- a cap of zero will be ignored here.
+
+[INVASION_SOLDIER_CAP:120]
+[INVASION_MONSTER_CAP:40]
 
 Use the specific seed cap to set the maximum number of seeds of each kind generally allowed in the fortress.  Use the fortress seed cap to control the overall number of seeds allowed.  Seeds over the global cap will be periodically removed, starting with the oldest and most worthless seeds.
 
