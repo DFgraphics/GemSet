@@ -115,7 +115,7 @@ Hamsters were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:7:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -133,8 +133,8 @@ Hamsters were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A large creature the shape of a hamster.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
-	[CREATURE_TILE:76]
-	
+	[CREATURE_TILE:82]
+	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -265,7 +265,7 @@ Hedgehogs were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:6:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -284,7 +284,7 @@ Hedgehogs were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:76]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -409,7 +409,7 @@ Flying squirrels were sponsored by the generous contributions of the Bay 12 comm
 	[CLUSTER_NUMBER:3:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:72]
-	
+	[COLOR:6:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -427,8 +427,8 @@ Flying squirrels were sponsored by the generous contributions of the Bay 12 comm
 	[DESCRIPTION:A large monster taking the shape of a flying squirrel.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:3:5]
-	[CREATURE_TILE:82]
-	
+	[CREATURE_TILE:85]
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]

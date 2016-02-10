@@ -138,7 +138,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:0:0:1]
 
 [CREATURE:GIANT_CROW]
 	[COPY_TAGS_FROM:BIRD_CROW]
@@ -156,7 +156,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:30:50]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:89]
-	
+	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -307,7 +307,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:0:0:1]
 
 [CREATURE:GIANT_RAVEN]
 	[COPY_TAGS_FROM:BIRD_RAVEN]
@@ -325,7 +325,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:3:5]
 	[CREATURE_TILE:89]
-	
+	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -461,7 +461,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:0:0:1]
 
 [CREATURE:GIANT_CASSOWARY]
 	[COPY_TAGS_FROM:BIRD_CASSOWARY]
@@ -478,7 +478,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 	[DESCRIPTION:A huge monster in the shape of a cassowary.]
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:97]
-	
+	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -624,7 +624,7 @@ Kea were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:2:0:0]
 
 [CREATURE:GIANT_KEA]
 	[COPY_TAGS_FROM:BIRD_KEA]
@@ -642,7 +642,7 @@ Kea were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:89]
-	
+	[COLOR:2:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -665,7 +665,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:snowy owl:snowy owls:snowy owl]
 	[CASTE_NAME:snowy owl:snowy owls:snowy owl]
 	[GENERAL_CHILD_NAME:snowy owl chick:snowy owl chicks]
-	[CREATURE_TILE:89][COLOR:7:0:1]
+	[CREATURE_TILE:85][COLOR:7:0:1]
 	[POPULATION_NUMBER:15:30]
 	[NATURAL]
 	[LARGE_ROAMING]
@@ -791,7 +791,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:7:0:1]
 
 [CREATURE:GIANT_SNOWY_OWL]
 	[COPY_TAGS_FROM:BIRD_OWL_SNOWY]
@@ -807,8 +807,8 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	[GENERAL_CHILD_NAME:giant snowy owl chick:giant snowy owl chicks]
 	[DESCRIPTION:A large bird monster in the shape of a snowy owl.]
 	[POPULATION_NUMBER:15:30]
-	[CREATURE_TILE:89]
-	
+	[CREATURE_TILE:85]
+	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -959,7 +959,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_SPARROW]
 	[COPY_TAGS_FROM:SPARROW]
@@ -977,7 +977,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:89]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1108,7 +1108,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:2:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:7:0:1]
 
 [CREATURE:GIANT_WHITE_STORK]
 	[COPY_TAGS_FROM:BIRD_STORK_WHITE]
@@ -1126,7 +1126,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:97]
-	
+	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1258,7 +1258,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:0:0:1]
 
 [CREATURE:GIANT_LOON]
 	[COPY_TAGS_FROM:BIRD_LOON]
@@ -1276,7 +1276,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:4]
 	[CREATURE_TILE:89]
-	
+	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1298,7 +1298,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:barn owl:barn owls:barn owl]
 	[CASTE_NAME:barn owl:barn owls:barn owl]
 	[GENERAL_CHILD_NAME:barn owl chick:barn owl chicks]
-	[CREATURE_TILE:89][COLOR:6:0:0]
+	[CREATURE_TILE:85][COLOR:6:0:0]
 	[POPULATION_NUMBER:15:30]
 	[NATURAL]
 	[LARGE_ROAMING]
@@ -1427,7 +1427,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_BARN_OWL]
 	[COPY_TAGS_FROM:BIRD_OWL_BARN]
@@ -1443,8 +1443,8 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	[GENERAL_CHILD_NAME:giant barn owl chick:giant barn owl chicks]
 	[DESCRIPTION:A large monster in the form of a barn owl.]
 	[POPULATION_NUMBER:15:30]
-	[CREATURE_TILE:89]
-	
+	[CREATURE_TILE:85]
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1591,7 +1591,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:2:0:1]
 
 [CREATURE:GIANT_PARAKEET]
 	[COPY_TAGS_FROM:BIRD_PARAKEET]
@@ -1609,7 +1609,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:89]
-	
+	[COLOR:2:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1631,7 +1631,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:kakapo:kakapo:kakapo]
 	[CASTE_NAME:kakapo:kakapo:kakapo]
 	[CHILD:7][GENERAL_CHILD_NAME:kakapo chick:kakapo chicks]
-	[CREATURE_TILE:89][COLOR:2:0:0]
+	[CREATURE_TILE:98][COLOR:2:0:0]
 	[NATURAL]
 	[LARGE_ROAMING]
 	[BIOME:SHRUBLAND_TEMPERATE]
@@ -1739,8 +1739,8 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
-	[CREATURE_TILE:75]
-	
+	[CREATURE_TILE:98]
+	[COLOR:2:0:0]
 
 [CREATURE:GIANT_KAKAPO]
 	[COPY_TAGS_FROM:BIRD_KAKAPO]
@@ -1757,8 +1757,8 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A large monster the shape of a kakapo.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1]
-	[CREATURE_TILE:89]
-	
+	[CREATURE_TILE:98]
+	[COLOR:2:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1888,7 +1888,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 	[CLUSTER_NUMBER:3:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:7:0:0]
 
 [CREATURE:GIANT_GREY_PARROT]
 	[COPY_TAGS_FROM:BIRD_PARROT_GREY]
@@ -1906,7 +1906,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:3:5]
 	[CREATURE_TILE:89]
-	
+	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2033,7 +2033,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:0:0:1]
 
 [CREATURE:GIANT_PUFFIN]
 	[COPY_TAGS_FROM:BIRD_PUFFIN]
@@ -2051,7 +2051,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:30:50]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:89]
-	
+	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2178,7 +2178,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:2]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:7:0:1]
 
 [CREATURE:GIANT_SWAN]
 	[COPY_TAGS_FROM:BIRD_SWAN]
@@ -2196,7 +2196,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:2]
 	[CREATURE_TILE:97]
-	
+	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2339,7 +2339,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:4:0:1]
 
 [CREATURE:GIANT_LORIKEET]
 	[COPY_TAGS_FROM:BIRD_LORIKEET]
@@ -2357,7 +2357,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:89]
-	
+	[COLOR:4:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2505,7 +2505,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_WREN]
 	[COPY_TAGS_FROM:BIRD_WREN]
@@ -2523,7 +2523,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:89]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2544,7 +2544,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:osprey:ospreys:osprey]
 	[CASTE_NAME:osprey:ospreys:osprey]
 	[GENERAL_CHILD_NAME:osprey chick:osprey chicks]
-	[CREATURE_TILE:97][COLOR:7:0:1]
+	[CREATURE_TILE:89][COLOR:7:0:1]
 	[POPULATION_NUMBER:15:30]
 	[NATURAL]
 	[LARGE_ROAMING]
@@ -2672,7 +2672,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:7:0:1]
 
 [CREATURE:GIANT_OSPREY]
 	[COPY_TAGS_FROM:BIRD_OSPREY]
@@ -2689,7 +2689,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A large monster in the form of an osprey.]
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:97]
-	
+	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2827,7 +2827,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_EMU]
 	[COPY_TAGS_FROM:BIRD_EMU]
@@ -2845,7 +2845,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:2:10]
 	[CREATURE_TILE:97]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2987,7 +2987,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:7:0:1]
 
 [CREATURE:GIANT_COCKATIEL]
 	[COPY_TAGS_FROM:BIRD_COCKATIEL]
@@ -3005,7 +3005,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:89]
-	
+	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -3148,7 +3148,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:2:0:1]
 
 [CREATURE:GIANT_PEACH-FACED_LOVEBIRD]
 	[COPY_TAGS_FROM:BIRD_LOVEBIRD_PEACH-FACED]
@@ -3166,7 +3166,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:89]
-	
+	[COLOR:2:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -3311,7 +3311,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:0:0:1]
 
 [CREATURE:GIANT_MAGPIE]
 	[COPY_TAGS_FROM:BIRD_MAGPIE]
@@ -3329,7 +3329,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:10]
 	[CREATURE_TILE:89]
-	
+	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -3349,7 +3349,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:kestrel:kestrels:kestrel]
 	[CASTE_NAME:kestrel:kestrels:kestrel]
 	[GENERAL_CHILD_NAME:kestrel chick:kestrel chicks]
-	[CREATURE_TILE:97][COLOR:4:0:0]
+	[CREATURE_TILE:89][COLOR:4:0:0]
 	[POPULATION_NUMBER:15:30]
 	[NATURAL]
 	[LARGE_ROAMING]
@@ -3478,7 +3478,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:4:0:0]
 
 [CREATURE:GIANT_KESTREL]
 	[COPY_TAGS_FROM:BIRD_KESTREL]
@@ -3495,7 +3495,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A huge monster in the shape of a kestrel.]
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:97]
-	
+	[COLOR:4:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -3622,7 +3622,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:1:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:7:0:1]
 
 [CREATURE:GIANT_ALBATROSS]
 	[COPY_TAGS_FROM:BIRD_ALBATROSS]
@@ -3640,7 +3640,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:10]
 	[CREATURE_TILE:97]
-	
+	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -3661,7 +3661,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 	[NAME:great horned owl:great horned owls:great horned owl]
 	[CASTE_NAME:great horned owl:great horned owls:great horned owl]
 	[GENERAL_CHILD_NAME:great horned owl chick:great horned owl chicks]
-	[CREATURE_TILE:89][COLOR:7:0:0]
+	[CREATURE_TILE:85][COLOR:7:0:0]
 	[POPULATION_NUMBER:15:30]
 	[NATURAL]
 	[LARGE_ROAMING]
@@ -3792,7 +3792,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:7:0:0]
 
 [CREATURE:GIANT_GREAT_HORNED_OWL]
 	[COPY_TAGS_FROM:BIRD_OWL_GREAT_HORNED]
@@ -3808,8 +3808,8 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 	[GENERAL_CHILD_NAME:giant great horned owl chick:giant great horned owl chicks]
 	[DESCRIPTION:A huge monster in the shape of a great horned owl.]
 	[POPULATION_NUMBER:15:30]
-	[CREATURE_TILE:89]
-	
+	[CREATURE_TILE:85]
+	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -3960,7 +3960,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_EAGLE]
 	[COPY_TAGS_FROM:BIRD_EAGLE]
@@ -3977,7 +3977,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A huge monster in the form of an eagle.]
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:97]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -4119,7 +4119,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:0:0:1]
 
 [CREATURE:GIANT_HORNBILL]
 	[COPY_TAGS_FROM:BIRD_HORNBILL]
@@ -4136,7 +4136,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A huge monster in the shape of a hornbill.]
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:89]
-	
+	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -4278,7 +4278,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:2:0:1]
 
 [CREATURE:GIANT_MASKED_LOVEBIRD]
 	[COPY_TAGS_FROM:BIRD_LOVEBIRD_MASKED]
@@ -4296,7 +4296,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:89]
-	
+	[COLOR:2:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -4437,7 +4437,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_BUSHTIT]
 	[COPY_TAGS_FROM:BIRD_BUSHTIT]
@@ -4455,7 +4455,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:89]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
