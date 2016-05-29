@@ -12,7 +12,7 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 	[NAME:wolverine:wolverines:wolverine]
 	[CASTE_NAME:wolverine:wolverines:wolverine]
 	[CHILD:1][GENERAL_CHILD_NAME:wolverine kit:wolverine kits]
-	[CREATURE_TILE:81][COLOR:6:0:0]
+	[CREATURE_TILE:76][COLOR:6:0:0]
 	[NATURAL]
 	[PETVALUE:25]
 	[PET_EXOTIC]
@@ -133,8 +133,8 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
-	[CREATURE_TILE:72]
-	
+	[CREATURE_TILE:71]
+	[COLOR:6:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -153,8 +153,8 @@ Wolverines were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A large, terrifying monster the shape of a wolverine.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
-	[CREATURE_TILE:81]
-	
+	[CREATURE_TILE:77]
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -171,7 +171,7 @@ Chinchillas were sponsored by the generous contributions of the Bay 12 community
 	[NAME:chinchilla:chinchillas:chinchilla]
 	[CASTE_NAME:chinchilla:chinchillas:chinchilla]
 	[CHILD:1][GENERAL_CHILD_NAME:chinchilla kit:chinchilla kits]
-	[CREATURE_TILE:81][COLOR:7:0:0]
+	[CREATURE_TILE:82][COLOR:7:0:0]
 	[PETVALUE:3]
 	[PET]
 	[NATURAL]
@@ -279,7 +279,7 @@ Chinchillas were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:3:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:72]
-	
+	[COLOR:7:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -298,8 +298,8 @@ Chinchillas were sponsored by the generous contributions of the Bay 12 community
 	[DESCRIPTION:A large monster in the shape of a chinchilla.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:3:5]
-	[CREATURE_TILE:81]
-	
+	[CREATURE_TILE:82]
+	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]

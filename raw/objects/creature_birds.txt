@@ -132,7 +132,7 @@ creature_birds
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
-	[CREATURE_TILE:'b']
+	[CREATURE_TILE:75]
 	[COLOR:1:0:1]
 
 [CREATURE:GIANT_BLUEJAY]
@@ -150,7 +150,7 @@ creature_birds
 	[DESCRIPTION:A huge monster in the form of a bluejay.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
-	[CREATURE_TILE:'B']
+	[CREATURE_TILE:89]
 	[COLOR:1:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
@@ -292,7 +292,7 @@ creature_birds
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
-	[CREATURE_TILE:'c']
+	[CREATURE_TILE:75]
 	[COLOR:4:0:1]
 
 [CREATURE:GIANT_CARDINAL]
@@ -310,7 +310,7 @@ creature_birds
 	[DESCRIPTION:A huge monster in the form of a cardinal.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
-	[CREATURE_TILE:'C']
+	[CREATURE_TILE:89]
 	[COLOR:4:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
@@ -449,7 +449,7 @@ creature_birds
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
-	[CREATURE_TILE:'g']
+	[CREATURE_TILE:75]
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_GRACKLE]
@@ -467,7 +467,7 @@ creature_birds
 	[DESCRIPTION:A huge monster in the form of a grackle.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
-	[CREATURE_TILE:'G']
+	[CREATURE_TILE:89]
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
@@ -605,7 +605,7 @@ creature_birds
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
-	[CREATURE_TILE:'o']
+	[CREATURE_TILE:75]
 	[COLOR:6:0:1]
 
 [CREATURE:GIANT_ORIOLE]
@@ -623,7 +623,7 @@ creature_birds
 	[DESCRIPTION:A huge monster in the form of an oriole.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
-	[CREATURE_TILE:'O']
+	[CREATURE_TILE:89]
 	[COLOR:6:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
@@ -641,7 +641,9 @@ creature_birds
 	[NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]
 	[CASTE_NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]
 	[GENERAL_CHILD_NAME:red-winged blackbird hatchling:red-winged blackbird hatchlings]
-	[CREATURE_TILE:89][COLOR:0:0:1]
+	[CREATURE_TILE:117]
+	[ALTTILE:118]
+	[COLOR:0:0:1]
 	[PETVALUE:30][NATURAL][PET]
 	[BIOME:MARSH_TEMPERATE_FRESHWATER]
 	[BIOME:MARSH_TEMPERATE_SALTWATER]
@@ -761,7 +763,7 @@ creature_birds
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
-	[CREATURE_TILE:'r']
+	[CREATURE_TILE:75]
 	[COLOR:0:0:1]
 
 [CREATURE:GIANT_RW_BLACKBIRD]
@@ -779,7 +781,7 @@ creature_birds
 	[DESCRIPTION:A huge monster in the form of a red-winged blackbird.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
-	[CREATURE_TILE:'R']
+	[CREATURE_TILE:89]
 	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
@@ -1116,8 +1118,8 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
-	[CREATURE_TILE:75]
-	
+	[CREATURE_TILE:98]
+	[COLOR:7:0:1]
 
 [CREATURE:BIRD_PENGUIN_GIANT]
 	[COPY_TAGS_FROM:BIRD_PENGUIN]
@@ -1134,7 +1136,7 @@ Penguins were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:98]
-	
+	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1300,7 +1302,7 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT PEREGRINE FALCON]
 	[COPY_TAGS_FROM:BIRD_FALCON_PEREGRINE]
@@ -1314,8 +1316,8 @@ Peregrine falcons were sponsored by the generous contributions of the Bay 12 com
 	[NAME:giant peregrine falcon:giant peregrine falcons:giant peregrine falcon]
 	[GENERAL_CHILD_NAME:giant peregrine falcon chick:giant peregrine falcon chicks]
 	[DESCRIPTION:A large bird monster that is the same shape as a peregrine falcon.]
-	[CREATURE_TILE:89]
-	
+	[CREATURE_TILE:97]
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1342,7 +1344,7 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A small, brown, flightless bird.  It eats insects and grubs and is known for its keen sense of smell.]
 	[NAME:kiwi:kiwis:kiwi]
 	[CHILD:1][GENERAL_CHILD_NAME:kiwi chick:kiwi chicks]
-	[CREATURE_TILE:89][COLOR:6:0:0]
+	[CREATURE_TILE:98][COLOR:6:0:0]
 	[BIOME:ANY_TEMPERATE_FOREST]
 	[BIOME:SHRUBLAND_TEMPERATE]
 	[POPULATION_NUMBER:15:30]
@@ -1455,8 +1457,8 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
-	[CREATURE_TILE:75]
-	
+	[CREATURE_TILE:98]
+	[COLOR:6:0:0]
 
 [CREATURE:BIRD_KIWI_GIANT]
 	[COPY_TAGS_FROM:BIRD_KIWI]
@@ -1471,8 +1473,8 @@ Kiwis were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A large monster with a long nose and brown feathers.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1]
-	[CREATURE_TILE:89]
-	
+	[CREATURE_TILE:98]
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[MOUNT_EXOTIC]
 	[PETVALUE:1000]
@@ -1638,8 +1640,8 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
-	[CREATURE_TILE:75]
-	
+	[CREATURE_TILE:97]
+	[COLOR:0:0:1]
 
 [CREATURE:BIRD_OSTRICH_GIANT]
 	[COPY_TAGS_FROM:BIRD_OSTRICH]
@@ -1655,7 +1657,7 @@ Ostriches were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:10] should be seasonal
 	[CREATURE_TILE:97]
-	
+	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:1000]
 	[MOUNT_EXOTIC]

@@ -82,7 +82,7 @@ Damselflies were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:2:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:3:0:1]
 
 [CREATURE:GIANT_DAMSELFLY]
 	[COPY_TAGS_FROM:DAMSELFLY]
@@ -99,7 +99,7 @@ Damselflies were sponsored by the generous contributions of the Bay 12 community
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:5]
 	[CREATURE_TILE:106]
-	
+	[COLOR:3:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -191,7 +191,7 @@ Moths were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_MOTH]
 	[COPY_TAGS_FROM:MOTH]
@@ -208,7 +208,7 @@ Moths were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:106]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -296,7 +296,7 @@ Grasshoppers were sponsored by the generous contributions of the Bay 12 communit
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:2:0:1]
 
 [CREATURE:GIANT_GRASSHOPPER]
 	[COPY_TAGS_FROM:GRASSHOPPER]
@@ -313,7 +313,7 @@ Grasshoppers were sponsored by the generous contributions of the Bay 12 communit
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:105]
-	
+	[COLOR:2:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -429,7 +429,7 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:72]
-	
+	[COLOR:6:0:1]
 
 [CREATURE:GIANT_BARK_SCORPION]
 	[COPY_TAGS_FROM:BARK_SCORPION]
@@ -446,7 +446,7 @@ Bark scorpions were sponsored by the generous contributions of the Bay 12 commun
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:103]
-	
+	[COLOR:6:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -539,7 +539,7 @@ Mantises were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:2:0:1]
 
 [CREATURE:GIANT_MANTIS]
 	[COPY_TAGS_FROM:MANTIS]
@@ -556,7 +556,7 @@ Mantises were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:25:50]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:103]
-	
+	[COLOR:2:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -649,7 +649,7 @@ Ticks were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:0:0:1]
 
 [CREATURE:GIANT_TICK]
 	[COPY_TAGS_FROM:TICK]
@@ -666,7 +666,7 @@ Ticks were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:105]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -757,7 +757,7 @@ Lice were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_LOUSE]
 	[COPY_TAGS_FROM:LOUSE]
@@ -774,7 +774,7 @@ Lice were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:105]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -866,7 +866,7 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_THRIPS]
 	[COPY_TAGS_FROM:THRIPS]
@@ -883,7 +883,7 @@ Thrips were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
 	[CREATURE_TILE:105]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -956,7 +956,7 @@ Slugs were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:74]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_SLUG]
 	[COPY_TAGS_FROM:SLUG]
@@ -973,7 +973,7 @@ Slugs were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:107]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1066,7 +1066,7 @@ Mosquitos were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:75]
-	
+	[COLOR:0:0:1]
 
 [CREATURE:GIANT_MOSQUITO]
 	[COPY_TAGS_FROM:MOSQUITO]
@@ -1083,7 +1083,7 @@ Mosquitos were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:106]
-	
+	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1174,7 +1174,7 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:0:0:1]
 
 [CREATURE:GIANT_JUMPING_SPIDER]
 	[COPY_TAGS_FROM:SPIDER_JUMPING]
@@ -1192,7 +1192,7 @@ Jumping spiders were sponsored by the generous contributions of the Bay 12 commu
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:105]
-	
+	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1352,7 +1352,7 @@ Moon snails were sponsored by the generous contributions of the Bay 12 community
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:74]
-	
+	[COLOR:4:0:1]
 
 [CREATURE:GIANT_MOON_SNAIL]
 	[COPY_TAGS_FROM:MOON_SNAIL]
@@ -1369,7 +1369,7 @@ Moon snails were sponsored by the generous contributions of the Bay 12 community
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:107]
-	
+	[COLOR:4:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1497,7 +1497,7 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_BROWN_RECLUSE_SPIDER]
 	[COPY_TAGS_FROM:SPIDER_BROWN_RECLUSE]
@@ -1532,7 +1532,7 @@ Brown recluse spiders were sponsored by the generous contributions of the Bay 12
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:105]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1612,7 +1612,7 @@ Snails were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:74]
-	
+	[COLOR:7:0:0]
 
 [CREATURE:GIANT_SNAIL]
 	[COPY_TAGS_FROM:SNAIL]
@@ -1629,7 +1629,7 @@ Snails were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:107]
-	
+	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]

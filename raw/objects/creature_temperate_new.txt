@@ -140,7 +140,7 @@ Wild boars were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:6:0:0]
 	[GO_TO_TAG:BODY_DETAIL_PLAN:BODY_HAIR_TISSUE_LAYERS:HAIR]
 	[APPLY_CREATURE_VARIATION:NAIL_MATERIALS]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
@@ -161,8 +161,8 @@ Wild boars were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A huge monster boar with jagged tusks.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:5:10]
-	[CREATURE_TILE:77]
-	
+	[CREATURE_TILE:78]
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -302,7 +302,7 @@ Coyotes were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:2:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:7:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -322,7 +322,7 @@ Coyotes were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:2:10]
 	[CREATURE_TILE:77]
-	
+	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -479,7 +479,7 @@ Kangaroos were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:72]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_KANGAROO]
 	[COPY_TAGS_FROM:KANGAROO]
@@ -497,7 +497,7 @@ Kangaroos were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:2:4]
 	[CREATURE_TILE:82]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -630,7 +630,7 @@ Koalas were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:7:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -649,7 +649,7 @@ Koalas were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A large koala-shaped monster.]
 	[POPULATION_NUMBER:15:30]
 	[CREATURE_TILE:82]
-	
+	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -811,7 +811,7 @@ Adders were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:74]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_ADDER]
 	[COPY_TAGS_FROM:ADDER]
@@ -845,7 +845,7 @@ Adders were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:104]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -983,7 +983,7 @@ Echidnas were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:6:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -1003,7 +1003,7 @@ Echidnas were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:76]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1145,7 +1145,7 @@ Porcupines were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:6:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -1165,7 +1165,7 @@ Porcupines were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:76]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1289,7 +1289,7 @@ Kingsnakes were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:74]
-	
+	[COLOR:7:0:1]
 
 [CREATURE:GIANT_KINGSNAKE]
 	[COPY_TAGS_FROM:KINGSNAKE]
@@ -1306,7 +1306,7 @@ Kingsnakes were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:25]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:104]
-	
+	[COLOR:7:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1325,7 +1325,7 @@ Gray langurs were sponsored by the generous contributions of the Bay 12 communit
 	[DESCRIPTION:A small monkey that can be found in forests and the streets of towns.]
 	[NAME:gray langur:gray langurs:gray langur]
 	[CASTE_NAME:gray langur:gray langurs:gray langur]
-	[CREATURE_TILE:84][COLOR:7:0:0]
+	[CREATURE_TILE:81][COLOR:7:0:0]
 	[NATURAL]
 	[PETVALUE:50]
 	[PET_EXOTIC]
@@ -1440,8 +1440,8 @@ Gray langurs were sponsored by the generous contributions of the Bay 12 communit
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:5:10]
 	[MAXAGE:60:80]
-	[CREATURE_TILE:71]
-	
+	[CREATURE_TILE:72]
+	[COLOR:7:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -1459,8 +1459,8 @@ Gray langurs were sponsored by the generous contributions of the Bay 12 communit
 	[DESCRIPTION:A huge monster in the shape of a gray langur.]
 	[POPULATION_NUMBER:20:50]
 	[CLUSTER_NUMBER:5:10]
-	[CREATURE_TILE:84]
-	
+	[CREATURE_TILE:81]
+	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1598,7 +1598,7 @@ Bobcats were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:6:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:CLAW:CLAW_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:CLAW:FRONT]
 
@@ -1618,7 +1618,7 @@ Bobcats were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:2:3]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:77]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1750,7 +1750,7 @@ Skunks were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:72]
-	
+	[COLOR:0:0:1]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -1769,8 +1769,8 @@ Skunks were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A large monster in the form of a skunk.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1]
-	[CREATURE_TILE:76]
-	
+	[CREATURE_TILE:81]
+	[COLOR:0:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1877,7 +1877,7 @@ Green tree frogs were sponsored by the generous contributions of the Bay 12 comm
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:2:0:1]
 
 [CREATURE:GIANT_GREEN_TREE_FROG]
 	[COPY_TAGS_FROM:GREEN_TREE_FROG]
@@ -1894,7 +1894,7 @@ Green tree frogs were sponsored by the generous contributions of the Bay 12 comm
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:76]
-	
+	[COLOR:2:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -1913,7 +1913,7 @@ Hares were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A swift, long-eared rodent with long legs and a short fluffy tail.]
 	[NAME:hare:hares:hare]
 	[GENERAL_CHILD_NAME:leveret:leverets]
-	[CREATURE_TILE:76][COLOR:6:0:0]
+	[CREATURE_TILE:82][COLOR:6:0:0]
 	[PETVALUE:10]
 	[PET_EXOTIC]
 	[STANDARD_GRAZER]
@@ -2030,7 +2030,7 @@ Hares were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:6:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -2049,8 +2049,8 @@ Hares were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A large monster in the shape of a hare.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1]
-	[CREATURE_TILE:76]
-	
+	[CREATURE_TILE:82]
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2203,7 +2203,7 @@ Rattlesnakes were sponsored by the generous contributions of the Bay 12 communit
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:74]
-	
+	[COLOR:7:0:0]
 
 [CREATURE:GIANT_RATTLESNAKE]
 	[COPY_TAGS_FROM:RATTLESNAKE]
@@ -2237,7 +2237,7 @@ Rattlesnakes were sponsored by the generous contributions of the Bay 12 communit
 	[POPULATION_NUMBER:10:25]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:104]
-	
+	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2368,7 +2368,7 @@ Weasels were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:72]
-	
+	[COLOR:6:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -2388,7 +2388,7 @@ Weasels were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:81]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2539,7 +2539,7 @@ Copperhead snakes were sponsored by the generous contributions of the Bay 12 com
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:74]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_COPPERHEAD_SNAKE]
 	[COPY_TAGS_FROM:COPPERHEAD_SNAKE]
@@ -2573,7 +2573,7 @@ Copperhead snakes were sponsored by the generous contributions of the Bay 12 com
 	[POPULATION_NUMBER:10:25]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:104]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2713,7 +2713,7 @@ Ibexes were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_IBEX]
 	[COPY_TAGS_FROM:IBEX]
@@ -2731,7 +2731,7 @@ Ibexes were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:4]
 	[CREATURE_TILE:77]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -2864,7 +2864,7 @@ Wombats were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:6:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -2884,7 +2884,7 @@ Wombats were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:76]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -3015,7 +3015,7 @@ Dingoes were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:3:10]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:72]
-	
+	[COLOR:6:0:1]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -3035,7 +3035,7 @@ Dingoes were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:3:12]
 	[CREATURE_TILE:77]
-	
+	[COLOR:6:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -3165,7 +3165,7 @@ Coatis were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:72]
-	
+	[COLOR:6:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -3185,7 +3185,7 @@ Coatis were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:81]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -3317,7 +3317,7 @@ Opossums were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:72]
-	
+	[COLOR:7:0:0]
 	[GO_TO_TAG:USE_TISSUE_TEMPLATE:NAIL:NAIL_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:FINGER:NAIL:FRONT]
 
@@ -3336,8 +3336,8 @@ Opossums were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A huge monster in the shape of an opossum.]
 	[POPULATION_NUMBER:15:30]
 	[CLUSTER_NUMBER:1:1]
-	[CREATURE_TILE:76]
-	
+	[CREATURE_TILE:81]
+	[COLOR:7:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]

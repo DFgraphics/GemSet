@@ -105,7 +105,7 @@ Geckos were sponsored by the generous contributions of the Bay 12 community.
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:72]
-	
+	[COLOR:6:0:1]
 
 [CREATURE:GIANT_LEOPARD_GECKO]
 	[COPY_TAGS_FROM:GECKO_LEOPARD]
@@ -122,7 +122,7 @@ Geckos were sponsored by the generous contributions of the Bay 12 community.
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:81]
-	
+	[COLOR:6:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -248,7 +248,7 @@ Desert tortoises were sponsored by the generous contributions of the Bay 12 comm
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:71]
-	
+	[COLOR:6:0:0]
 
 [CREATURE:GIANT_DESERT_TORTOISE]
 	[COPY_TAGS_FROM:DESERT TORTOISE]
@@ -266,7 +266,7 @@ Desert tortoises were sponsored by the generous contributions of the Bay 12 comm
 	[POPULATION_NUMBER:10:30]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:83]
-	
+	[COLOR:6:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
@@ -431,7 +431,7 @@ Gila monsters were sponsored by the generous contributions of the Bay 12 communi
 	[CLUSTER_NUMBER:1:3]
 	[MAXAGE:60:80]
 	[CREATURE_TILE:72]
-	
+	[COLOR:4:0:1]
 
 [CREATURE:GIANT_GILA_MONSTER]
 	[COPY_TAGS_FROM:GILA_MONSTER]
@@ -466,7 +466,7 @@ Gila monsters were sponsored by the generous contributions of the Bay 12 communi
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:81]
-	
+	[COLOR:4:0:1]
 	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]

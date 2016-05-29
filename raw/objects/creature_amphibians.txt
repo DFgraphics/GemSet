@@ -90,7 +90,7 @@ creature_amphibians
 	[POPULATION_NUMBER:5:10]
 	[CLUSTER_NUMBER:1:5]
 	[MAXAGE:60:80]
-	[CREATURE_TILE:'t']
+	[CREATURE_TILE:71]
 	[COLOR:2:0:0]
 
 [CREATURE:GIANT_TOAD]
@@ -107,7 +107,7 @@ creature_amphibians
 	[DESCRIPTION:A huge monster in the shape of a toad.]
 	[POPULATION_NUMBER:10:20]
 	[CLUSTER_NUMBER:1:1]
-	[CREATURE_TILE:'T']
+	[CREATURE_TILE:78]
 	[COLOR:2:0:0]
 	[PET_EXOTIC]
 	[PETVALUE:500]

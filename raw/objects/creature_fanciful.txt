@@ -26,7 +26,7 @@ creature_fanciful
 
 [CREATURE:GRIFFON]
 	[NAME:griffon:griffons:griffon]
-	[CREATURE_TILE:78][COLOR:7:0:1]
+	[CREATURE_TILE:77][COLOR:7:0:1]
 	[FANCIFUL]
 	[DOES_NOT_EXIST]
 	[PREFSTRING:strength]
