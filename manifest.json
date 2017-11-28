@@ -1,8 +1,8 @@
 {
     "author": "DragonDePlatino",
     "content_version": "1.4",
-    "df_min_version": "0.43.05",
-    "df_max_version": "0.43.05",
+    "df_min_version": "0.44.01",
+    "df_max_version": "0.44.02",
     "title": "GemSet 24px",
     "folder_prefix": "GemSet",
     "tooltip": "Colorful, sharp, and crystal-clear."
