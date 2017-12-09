@@ -1,9 +1,10 @@
 {
     "author": "DragonDePlatino",
-    "content_version": "1.4",
+    "url": "http://www.bay12forums.com/smf/index.php?topic=150753.0",
+    "content_version": "https://github.com/DFgraphics/GemSet (2017-12-02)",
     "df_min_version": "0.44.01",
     "df_max_version": "0.44.02",
-    "title": "GemSet 24px",
-    "folder_prefix": "GemSet",
-    "tooltip": "Colorful, sharp, and crystal-clear."
+    "folder_prefix": "Gemset",
+    "title": "GemSet 24x",
+    "tooltip": "The aesthetics of ASCII with the convenience of graphics"
 }
