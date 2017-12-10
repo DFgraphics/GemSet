@@ -323,7 +323,6 @@ Temporary building overrides until TWBT gets workshop support
 [OVERRIDE:22:B:HIVE:Hive::2:146]
 [OVERRIDE:88:B:ARCHERY_TARGET:ArcheryTarget::2:192]
 [OVERRIDE:240:B:30:Bookcase::2:194]
-[OVERRIDE:240:I:TOOL:TOOL:23:2:194]
 
 #[OVERRIDE:7:B:WORKSHOP_FORGE_ANY:Workshop::2:145] no color Quench baths
 [OVERRIDE:229:B:WORKSHOP_FORGE_ANY:Workshop::2:5]
