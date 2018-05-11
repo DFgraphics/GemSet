@@ -5,7 +5,7 @@ graphics_YAL_Scholars
 [TILE_PAGE:YAL_scholars]
 	[FILE:YetAnotherLurker/scholars.png]
 	[TILE_DIM:24:24]
-	[PAGE_DIM:13:4]
+	[PAGE_DIM:10:4]
 
 [CREATURE_GRAPHICS:DWARF]
 	[SAGE:YAL_scholars:0:0:AS_IS:DEFAULT]
@@ -17,6 +17,7 @@ graphics_YAL_Scholars
 	[NATURALIST:YAL_scholars:6:0:AS_IS:DEFAULT]
 	[CHEMIST:YAL_scholars:7:0:AS_IS:DEFAULT]
 	[GEOGRAPHER:YAL_scholars:8:0:AS_IS:DEFAULT]
+	[SCRIBE:YAL_scholars:9:0:AS_IS:DEFAULT]
 	
 [CREATURE_GRAPHICS:ELF]
 	[SAGE:YAL_scholars:0:1:AS_IS:DEFAULT]
@@ -28,6 +29,7 @@ graphics_YAL_Scholars
 	[NATURALIST:YAL_scholars:6:1:AS_IS:DEFAULT]
 	[CHEMIST:YAL_scholars:7:1:AS_IS:DEFAULT]
 	[GEOGRAPHER:YAL_scholars:8:1:AS_IS:DEFAULT]
+	[SCRIBE:YAL_scholars:9:1:AS_IS:DEFAULT]
 	
 [CREATURE_GRAPHICS:HUMAN]
 	[SAGE:YAL_scholars:0:2:AS_IS:DEFAULT]
@@ -39,6 +41,7 @@ graphics_YAL_Scholars
 	[NATURALIST:YAL_scholars:6:2:AS_IS:DEFAULT]
 	[CHEMIST:YAL_scholars:7:2:AS_IS:DEFAULT]
 	[GEOGRAPHER:YAL_scholars:8:2:AS_IS:DEFAULT]
+	[SCRIBE:YAL_scholars:9:2:AS_IS:DEFAULT]
 	
 [CREATURE_GRAPHICS:GOBLIN]
 	[SAGE:YAL_scholars:0:3:AS_IS:DEFAULT]
@@ -50,3 +53,4 @@ graphics_YAL_Scholars
 	[NATURALIST:YAL_scholars:6:3:AS_IS:DEFAULT]
 	[CHEMIST:YAL_scholars:7:3:AS_IS:DEFAULT]
 	[GEOGRAPHER:YAL_scholars:8:3:AS_IS:DEFAULT]
+	[SCRIBE:YAL_scholars:9:3:AS_IS:DEFAULT]
