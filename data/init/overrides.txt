@@ -281,6 +281,9 @@
 [OVERRIDE:240:I:TOOL:TOOL:20:2:201] #Book binding
 [OVERRIDE:240:I:TOOL:TOOL:23:2:194] #Bookcase
 [OVERRIDE:240:I:TOOL:TOOL:22:2:195] #Quire
+[OVERRIDE:246:I:TOOL:TOOL:19:2:203] #Scroll Rollers
+[OVERRIDE:236:I:TOOL:TOOL:21:2:203] #Scroll
+
 
 Temporary building overrides until TWBT gets workshop support
 
@@ -323,6 +326,12 @@ Temporary building overrides until TWBT gets workshop support
 [OVERRIDE:22:B:HIVE:Hive::2:146]
 [OVERRIDE:88:B:ARCHERY_TARGET:ArcheryTarget::2:192]
 [OVERRIDE:240:B:30:Bookcase::2:194]
+
+[OVERRIDE:139:B:DISPLAY_CASE:DisplayFurniture::2:193] #Pedestal
+
+[OVERRIDE:149:B:TRAP:Trap:0:2:204] #Lever Left
+[OVERRIDE:162:B:TRAP:Trap:0:2:205] #Lever Right
+[OVERRIDE:111:B:WELL:Well::2:206] #Well
 
 #[OVERRIDE:7:B:WORKSHOP_FORGE_ANY:Workshop::2:145] no color Quench baths
 [OVERRIDE:229:B:WORKSHOP_FORGE_ANY:Workshop::2:5]
