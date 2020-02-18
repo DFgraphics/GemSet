@@ -328,6 +328,11 @@ Temporary building overrides until TWBT gets workshop support
 [OVERRIDE:240:B:30:Bookcase::2:194]
 
 [OVERRIDE:139:B:DISPLAY_CASE:DisplayFurniture::2:193] #Pedestal
+[OVERRIDE:227:B:DISPLAY_CASE:DisplayFurniture::2:207] #Display case
+[OVERRIDE:139:I:TOOL:TOOL:ITEM_TOOL_PEDESTAL:2:193] #pedestal
+[OVERRIDE:227:I:TOOL:TOOL:ITEM_TOOL_DISPLAY_CASE:2:207] #display case
+[OVERRIDE:8:I:TOOL:TOOL:ITEM_TOOL_DIE:_MDF_overrides_1:228] #die
+[OVERRIDE:144:I:TOOL:TOOL:ITEM_TOOL_ALTAR:_MDF_overrides_2:229] #altar
 
 [OVERRIDE:149:B:TRAP:Trap:0:2:204] #Lever Left
 [OVERRIDE:162:B:TRAP:Trap:0:2:205] #Lever Right
@@ -2420,22 +2425,22 @@ Temporary building overrides until TWBT gets workshop support
 [OVERRIDE:213:T:ConstructedWallLRUD:6:20]
 [OVERRIDE:214:T:ConstructedWallLRUD:6:20]
 [OVERRIDE:206:T:ConstructedFortification:6:21]
-[OVERRIDE:208:T:ConstructedFloorTrackN:6:22::1]
-[OVERRIDE:210:T:ConstructedFloorTrackS:6:23::1]
-[OVERRIDE:181:T:ConstructedFloorTrackW:6:24::1]
-[OVERRIDE:198:T:ConstructedFloorTrackE:6:25::1]
-[OVERRIDE:186:T:ConstructedFloorTrackNS:6:26::1]
-[OVERRIDE:205:T:ConstructedFloorTrackEW:6:27::1]
-[OVERRIDE:200:T:ConstructedFloorTrackNE:6:28::1]
-[OVERRIDE:188:T:ConstructedFloorTrackNW:6:29::1]
-[OVERRIDE:201:T:ConstructedFloorTrackSE:6:30::1]
-[OVERRIDE:187:T:ConstructedFloorTrackSW:6:31::1]
+[OVERRIDE:208:T:ConstructedFloorTrackN:6:22:1]
+[OVERRIDE:210:T:ConstructedFloorTrackS:6:23:1]
+[OVERRIDE:181:T:ConstructedFloorTrackW:6:24:1]
+[OVERRIDE:198:T:ConstructedFloorTrackE:6:25:1]
+[OVERRIDE:186:T:ConstructedFloorTrackNS:6:26:1]
+[OVERRIDE:205:T:ConstructedFloorTrackEW:6:27:1]
+[OVERRIDE:200:T:ConstructedFloorTrackNE:6:28:1]
+[OVERRIDE:188:T:ConstructedFloorTrackNW:6:29:1]
+[OVERRIDE:201:T:ConstructedFloorTrackSE:6:30:1]
+[OVERRIDE:187:T:ConstructedFloorTrackSW:6:31:1]
 
-[OVERRIDE:202:T:ConstructedFloorTrackNEW:6:32::1]
-[OVERRIDE:203:T:ConstructedFloorTrackSEW:6:33::1]
-[OVERRIDE:185:T:ConstructedFloorTrackNSW:6:34::1]
-[OVERRIDE:204:T:ConstructedFloorTrackNSE:6:35::1]
-[OVERRIDE:206:T:ConstructedFloorTrackNSEW:6:36::1]
+[OVERRIDE:202:T:ConstructedFloorTrackNEW:6:32:1]
+[OVERRIDE:203:T:ConstructedFloorTrackSEW:6:33:1]
+[OVERRIDE:185:T:ConstructedFloorTrackNSW:6:34:1]
+[OVERRIDE:204:T:ConstructedFloorTrackNSE:6:35:1]
+[OVERRIDE:206:T:ConstructedFloorTrackNSEW:6:36:1]
 [OVERRIDE:30:T:ConstructedRampTrackN:6:37:1]
 [OVERRIDE:30:T:ConstructedRampTrackS:6:38:1]
 [OVERRIDE:30:T:ConstructedRampTrackW:6:39:1]
