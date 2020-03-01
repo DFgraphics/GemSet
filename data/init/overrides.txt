@@ -334,7 +334,6 @@ Temporary building overrides until TWBT gets workshop support
 [OVERRIDE:8:I:TOOL:TOOL:ITEM_TOOL_DIE:2:208] #die
 [OVERRIDE:144:I:TOOL:TOOL:ITEM_TOOL_ALTAR:2:209] #altar
 [OVERRIDE:144:B:91:OfferingPlace::2:209] #altar
-[OVERRIDE:8:I:TOOL:TOOL:ITEM_TOOL_DIE:2:208] #die
 
 [OVERRIDE:149:B:TRAP:Trap:0:2:204] #Lever Left
 [OVERRIDE:162:B:TRAP:Trap:0:2:205] #Lever Right
@@ -364,7 +363,6 @@ Temporary building overrides until TWBT gets workshop support
 [OVERRIDE:42:B:WORKSHOP_JEWELER:Workshop::2:128]
 
 [OVERRIDE:238:B:WORKSHOP_BOWYER:Workshop::2:171]
-
 
 [OVERRIDE:150:B:WORKSHOP_CUSTOM:Workshop:SOAP_MAKER:2:36]
 [OVERRIDE:240:B:WORKSHOP_CUSTOM:Workshop:SOAP_MAKER:2:22]
