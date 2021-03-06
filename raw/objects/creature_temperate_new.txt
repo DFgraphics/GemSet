@@ -1326,7 +1326,7 @@ Kingsnakes were sponsored by the generous contributions of the Bay 12 community.
 
 Gray langurs were sponsored by the generous contributions of the Bay 12 community.
 
-	Japa
+	Rose
 
 [CREATURE:GRAY_LANGUR]
 	[DESCRIPTION:A small monkey that can be found in forests and the streets of towns.]

@@ -231,7 +231,7 @@ Grasshoppers were sponsored by the generous contributions of the Bay 12 communit
 	[CREATURE_TILE:115][COLOR:2:0:1]
 	[NATURAL]
 	[BIOME:NOT_FREEZING]
-	[FREQUENCY:100]
+	[VERMIN_GROUNDER][FREQUENCY:100]
 	[UBIQUITOUS]
 	[VERMIN_NOTRAP]
 	[POPULATION_NUMBER:250:500]
